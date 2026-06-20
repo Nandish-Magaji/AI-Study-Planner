@@ -354,8 +354,3 @@ This project demonstrates:
 
 **Nandish MS**
 
-Aspiring Full-Stack & AI Developer
-
-* LinkedIn
-* GitHub
-* Portfolio
