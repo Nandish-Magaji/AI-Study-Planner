@@ -12,6 +12,7 @@ using AI-powered content generation through Groq-hosted LLMs.
 ## Preview
 
 ![AI Study Planner Pro](assets/Dashboard.png)
+![AI Study Planner Pro](assets/agent_walkthrough.mp4)
 
 ## 🚀 Features
 
