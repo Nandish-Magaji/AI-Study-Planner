@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+
+pycache/
+*.pyc
+
+generated_files/
