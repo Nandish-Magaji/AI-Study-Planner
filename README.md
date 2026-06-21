@@ -272,7 +272,7 @@ Never commit this file to GitHub.
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Nandish-Magaji/AI-Study-Planner.git)
 ```
 
 ### Navigate to Project
